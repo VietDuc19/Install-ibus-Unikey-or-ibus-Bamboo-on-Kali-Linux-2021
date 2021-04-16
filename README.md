@@ -28,4 +28,4 @@
     CLUTTER_IM_MODULE="ibus"
     GLFW_IM_MODULE="ibus"```
     
-`$ reboot`
+  `$ reboot`
