@@ -23,6 +23,7 @@
 - Do shell trên Kali Linux Là zsh nên sẽ thêm vào file ~/.zshrc:
 
   $ vim ~/.zshrc
+  
     GTK_IM_MODULE="ibus"
     QT_IM_MODULE="ibus"
     XMODIFIERS="@im=ibus"
