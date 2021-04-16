@@ -29,6 +29,5 @@
      CLUTTER_IM_MODULE="ibus"
      GLFW_IM_MODULE="ibus"
      ``````
-- Sau đó reboot lại:
 
   `$ reboot`
