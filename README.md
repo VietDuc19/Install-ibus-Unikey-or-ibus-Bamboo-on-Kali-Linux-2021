@@ -1,7 +1,6 @@
 # Install ibus-Unikey or ibus-Bamboo on Kali Linux 2021
-1. Cài Đặt:
-
-  1.1. Cài Đặt ibus-Unikey (Lựa Chọn Cách Này Để Cài Đặt)
+## 1. Cài Đặt:
+### 1.1. Cài Đặt ibus-Unikey (Lựa Chọn Cách Này Để Cài Đặt)
   
         $ sudo apt-get install ibus-unikey ibus-gtk3
      Or $ sudo apt-get install --install-recommends ibus
