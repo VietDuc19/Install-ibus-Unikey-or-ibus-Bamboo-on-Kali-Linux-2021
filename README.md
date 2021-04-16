@@ -3,7 +3,7 @@
 
   1.1. Cài Đặt ibus-Unikey
   
-        $ sudo apt install ibus-unikey ibus-gtk3
+        $ sudo apt-get install ibus-unikey ibus-gtk3
      Or $ sudo apt-get install --install-recommends ibus
      
   1.2. Cài Đặt ibus-Bamboo
