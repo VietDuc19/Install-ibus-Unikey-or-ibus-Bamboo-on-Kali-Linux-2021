@@ -19,8 +19,7 @@
 - Kiểm Tra Xem Shell Đang Dùng Là Gì: bash, zsh, fish,...
 
   `$ echo $0`
-- Nếu là bash thì thêm đoạn sau vào file ~/.bashrc, zsh thì thêm đoạn sau vào ~/.zshrc,...
-- Do shell trên Kali Linux Là zsh nên sẽ thêm vào file ~/.zshrc:
+- Nếu là bash thì thêm đoạn sau vào file ~/.bashrc, zsh thì thêm đoạn sau vào ~/.zshrc,... Do shell trên Kali Linux Là zsh nên sẽ thêm vào file ~/.zshrc:
 
   `$ vim ~/.zshrc`
   
