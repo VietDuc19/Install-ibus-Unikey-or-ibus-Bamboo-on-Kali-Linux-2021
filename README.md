@@ -21,11 +21,14 @@
 - Nếu là bash thì thêm đoạn sau vào file ~/.bashrc, zsh thì thêm đoạn sau vào ~/.zshrc,... Do shell trên Kali Linux Là zsh nên sẽ thêm vào file ~/.zshrc:
 
   `$ vim ~/.zshrc`
-      ```GTK_IM_MODULE="ibus"
-      QT_IM_MODULE="ibus"
-      XMODIFIERS="@im=ibus"
-      QT4_IM_MODULE="ibus"
-      CLUTTER_IM_MODULE="ibus"
-      GLFW_IM_MODULE="ibus"```
-    
-  `$ reboot`
+     ``````
+     GTK_IM_MODULE="ibus"
+     QT_IM_MODULE="ibus"
+     XMODIFIERS="@im=ibus"
+     QT4_IM_MODULE="ibus"
+     CLUTTER_IM_MODULE="ibus"
+     GLFW_IM_MODULE="ibus"
+     ``````
+- Sau đó reboot lại:
+
+  `reboot`
