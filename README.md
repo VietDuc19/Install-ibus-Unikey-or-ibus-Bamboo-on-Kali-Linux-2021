@@ -6,7 +6,7 @@
      Or $ sudo apt-get install --install-recommends ibus
         $ reboot
      
-  1.2. Cài Đặt ibus-Bamboo (Cách Này Để Tham Khảo. Cài Xong Cũng Không Gõ Được)
+### 1.2. Cài Đặt ibus-Bamboo (Cách Này Để Tham Khảo. Cài Xong Cũng Không Gõ Được)
   
         $ sudo add-apt-repository ppa:bamboo-engine/ibus-bamboo
         $ sudo apt-get update
@@ -14,7 +14,7 @@
      Or $ sudo apt-get install --install-recommends ibus
         $ reboot
 
-2. Cấu Hình:
+## 2. Cấu Hình:
 - Kiểm Tra Xem Shell Đang Dùng Là Gì: bash, zsh, fish,...
 
   `$ echo $0`
