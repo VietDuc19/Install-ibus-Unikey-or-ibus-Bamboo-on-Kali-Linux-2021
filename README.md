@@ -37,11 +37,11 @@ Or $ sudo apt-get install --install-recommends ibus
 `$ env | grep "IM_MODULE\|XMODIFIERS"`
 - Kết quả trả về sẽ có dạng như sau:
 
-`
-GTK_IM_MODULE=xim
-QT_IM_MODULE=ibus
-XMODIFIERS=@im=ibus
-QT4_IM_MODULE=ibus
-CLUTTER_IM_MODULE=ibus
-GLFW_IM_MODULE=ibus
-`
+      `
+      GTK_IM_MODULE=xim
+      QT_IM_MODULE=ibus
+      XMODIFIERS=@im=ibus
+      QT4_IM_MODULE=ibus
+      CLUTTER_IM_MODULE=ibus
+      GLFW_IM_MODULE=ibus
+      `
