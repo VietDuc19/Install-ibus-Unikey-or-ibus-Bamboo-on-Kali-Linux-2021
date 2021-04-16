@@ -24,7 +24,7 @@
 
   `$ vim ~/.zshrc`
   
-    GTK_IM_MODULE="ibus"
+    ```GTK_IM_MODULE="ibus"
     QT_IM_MODULE="ibus"
     XMODIFIERS="@im=ibus"
     QT4_IM_MODULE="ibus"
