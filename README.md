@@ -27,4 +27,5 @@
     QT4_IM_MODULE="ibus"
     CLUTTER_IM_MODULE="ibus"
     GLFW_IM_MODULE="ibus"
+    
   `$ reboot`
