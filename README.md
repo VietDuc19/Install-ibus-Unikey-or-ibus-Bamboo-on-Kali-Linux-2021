@@ -16,7 +16,6 @@
         $ reboot
 
 2. Cấu Hình:
-
 - Kiểm Tra Xem Shell Đang Dùng Là Gì: bash, zsh, fish,...
-
   $ echo $0
+  $ 
