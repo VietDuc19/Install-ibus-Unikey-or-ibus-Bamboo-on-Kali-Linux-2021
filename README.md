@@ -31,4 +31,4 @@
      ``````
 - Sau đó reboot lại:
 
-  `reboot`
+  `$ reboot`
