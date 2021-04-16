@@ -32,5 +32,6 @@
 
   `$ reboot`
 - Kiểm tra biến môi trường đã ăn cấu hình sau khi reboot hay chưa:
+
 `$ env | grep "IM_MODULE\|XMODIFIERS"`
 - Kết quả trả về sẽ có dạng như sau:
