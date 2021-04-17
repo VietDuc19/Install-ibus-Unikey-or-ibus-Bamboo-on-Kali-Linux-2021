@@ -56,7 +56,7 @@ Or $ sudo apt-get install --install-recommends ibus
    `$ ibus-setup`
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VietDuc19/Install-ibus-Unikey-or-ibus-Bamboo-on-Kali-Linux-2021/main/1.png?token=AENHHNICTINHWTLKBNLM4YLAPLI4I" />
+  <img src="https://github.com/VietDuc19/Install-ibus-Unikey-or-ibus-Bamboo-on-Kali-Linux-2021/blob/main/1.png" />
 </p>
 
 - Change default Input Method sang ibus bằng command sau:
@@ -64,7 +64,7 @@ Or $ sudo apt-get install --install-recommends ibus
    `$ im-config`
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/VietDuc19/Install-ibus-Unikey-or-ibus-Bamboo-on-Kali-Linux-2021/main/2.png?token=AENHHNMB4UDBPRKHYFAZLCDAPLJR6" />
+<img src="" />
 </p> 
  
 - Mở Settings trên hệ thống, add bộ gõ ibus-Unikey vào
