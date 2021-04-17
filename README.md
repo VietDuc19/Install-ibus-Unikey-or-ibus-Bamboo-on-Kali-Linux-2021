@@ -51,7 +51,8 @@ Or $ sudo apt-get install --install-recommends ibus
   `$ im-config -n ibus`
 
 ## 3. Add Bộ Gõ Unikey Vào Setting Trên Hệ Thống
-- Chạy command sau:
+- Chạy command sau để start ibus-daemon và add thêm bộ gõ Vietnamese-Unikey vào tab Input Method:
+
    `$ ibus-setup`
 - Change default Input Method sang ibus bằng command sau:
    `$ im-config
