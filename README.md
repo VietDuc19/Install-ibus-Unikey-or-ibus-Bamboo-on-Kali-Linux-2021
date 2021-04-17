@@ -47,5 +47,4 @@ Or $ sudo apt-get install --install-recommends ibus
       GLFW_IM_MODULE=ibus
 ### Cách 2: Command Line
 - Chạy lệnh sau để import config:
-
   `$ im-config -n ibus`
