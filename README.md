@@ -17,7 +17,7 @@ Or $ sudo apt-get install --install-recommends ibus
 
 ## 2. Cấu Hình
 ### Cách 1: Sửa Biến Môi Trường (Khuyến Nghị Sử Dụng Cách Này)
-- Kiểm Tra Xem Shell Đang Dùng Là Gì: bash, zsh, fish,...
+- Kiểm Tra Xem Shell Đang Dùng Là Gì: bash, zsh, fish,... bằng command sau:
 
   `$ echo $0`
 - Nếu là bash thì thêm đoạn sau vào file ~/.bashrc, zsh thì thêm đoạn sau vào ~/.zshrc,... Do shell trên Kali Linux Là zsh nên sẽ thêm vào file ~/.zshrc:
