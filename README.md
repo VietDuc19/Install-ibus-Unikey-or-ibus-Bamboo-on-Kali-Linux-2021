@@ -64,7 +64,7 @@ Or $ sudo apt-get install --install-recommends ibus
    `$ im-config`
 
 <p align="center">
-<img src="" />
+<img src="https://github.com/VietDuc19/Install-ibus-Unikey-or-ibus-Bamboo-on-Kali-Linux-2021/blob/main/2.png" />
 </p> 
  
 - Mở Settings trên hệ thống, add bộ gõ ibus-Unikey vào
