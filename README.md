@@ -16,7 +16,7 @@ Or $ sudo apt-get install --install-recommends ibus
         $ reboot
 
 ## 2. Cấu Hình:
-*Cách 1: Sửa Biến Môi Trường (Khuyến Nghị Sử Dụng Cách Này)
+### Cách 1: Sửa Biến Môi Trường (Khuyến Nghị Sử Dụng Cách Này)
 - Kiểm Tra Xem Shell Đang Dùng Là Gì: bash, zsh, fish,...
 
   `$ echo $0`
