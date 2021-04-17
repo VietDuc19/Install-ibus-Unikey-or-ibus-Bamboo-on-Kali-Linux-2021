@@ -55,6 +55,7 @@ Or $ sudo apt-get install --install-recommends ibus
 
    `$ ibus-setup`
 - Change default Input Method sang ibus bằng command sau:
+
    `$ im-config
 - Mở Settings trên hệ thống, add bộ gõ ibus-Unikey vào
 
