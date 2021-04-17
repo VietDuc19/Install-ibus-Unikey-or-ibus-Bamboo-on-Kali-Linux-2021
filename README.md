@@ -51,8 +51,19 @@ Or $ sudo apt-get install --install-recommends ibus
   `$ im-config -n ibus`
 
 ## 3. Add Bộ Gõ Unikey Vào Setting Trên Hệ Thống
+- Chạy command sau:
+   `$ ibus-setup`
+- Change default Input Method sang ibus bằng command sau:
+   `$ im-config
+- Mở Settings trên hệ thống, add bộ gõ ibus-Unikey vào
 
+- Sau đó reboot lại:
+   `$ reboot
+   
 ## 4. Tài Liệu Tham Khảo
 - https://anonyviet.com/huong-dan-cai-bo-go-tieng-viet-tren-kali-linux/
 - https://github.com/BambooEngine/ibus-bamboo
 - https://github.com/BambooEngine/ibus-bamboo/issues/107
+- https://blogchiasekienthuc.com/linux/cach-cai-dat-bo-go-tieng-viet-tren-ubuntu.html
+- https://forums.kali.org/archive/index.php/t-45576.html
+- https://github.com/BambooEngine/ibus-bamboo/wiki/Kh%C3%B4ng-g%C3%B5-%C4%91%C6%B0%E1%BB%A3c-ti%E1%BA%BFng-vi%E1%BB%87t-tr%C3%AAn-ph%E1%BA%A7n-m%E1%BB%81m-%60abc-xyz%60
