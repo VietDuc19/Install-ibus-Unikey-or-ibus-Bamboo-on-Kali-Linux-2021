@@ -50,7 +50,9 @@ Or $ sudo apt-get install --install-recommends ibus
 
   `$ im-config -n ibus`
 
-## 3. Tài Liệu Tham Khảo
+## 3. Add Bộ Gõ Unikey Vào Setting Trên Hệ Thống
+
+## 4. Tài Liệu Tham Khảo
 - https://anonyviet.com/huong-dan-cai-bo-go-tieng-viet-tren-kali-linux/
 - https://github.com/BambooEngine/ibus-bamboo
 - https://github.com/BambooEngine/ibus-bamboo/issues/107
