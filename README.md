@@ -24,12 +24,12 @@ Or $ sudo apt-get install --install-recommends ibus
 
   `$ vim ~/.zshrc`
      ``````
-     GTK_IM_MODULE="ibus"
-     QT_IM_MODULE="ibus"
-     XMODIFIERS="@im=ibus"
-     QT4_IM_MODULE="ibus"
-     CLUTTER_IM_MODULE="ibus"
-     GLFW_IM_MODULE="ibus"
+     export GTK_IM_MODULE="ibus"
+     export QT_IM_MODULE="ibus"
+     export XMODIFIERS="@im=ibus"
+     export QT4_IM_MODULE="ibus"
+     export CLUTTER_IM_MODULE="ibus"
+     export GLFW_IM_MODULE="ibus"
      ``````
 
   `$ reboot`
