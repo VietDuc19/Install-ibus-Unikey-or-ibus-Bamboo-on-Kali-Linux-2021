@@ -54,8 +54,10 @@ Or $ sudo apt-get install --install-recommends ibus
 - Chạy command sau để start ibus-daemon và add thêm bộ gõ Vietnamese-Unikey vào tab Input Method:
 
    `$ ibus-setup`
-   
+
+<p align="center">   
 ![alt text](https://raw.githubusercontent.com/VietDuc19/Install-ibus-Unikey-or-ibus-Bamboo-on-Kali-Linux-2021/main/1.png?token=AENHHNICTINHWTLKBNLM4YLAPLI4I)
+</p>
 
 - Change default Input Method sang ibus bằng command sau:
 
