@@ -62,6 +62,11 @@ Or $ sudo apt-get install --install-recommends ibus
 - Change default Input Method sang ibus bằng command sau:
 
    `$ im-config`
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/VietDuc19/Install-ibus-Unikey-or-ibus-Bamboo-on-Kali-Linux-2021/main/2.png?token=AENHHNMB4UDBPRKHYFAZLCDAPLJR6" />
+</p> 
+ 
 - Mở Settings trên hệ thống, add bộ gõ ibus-Unikey vào
 
 - Sau đó reboot lại:
