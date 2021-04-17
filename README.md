@@ -16,6 +16,7 @@ Or $ sudo apt-get install --install-recommends ibus
         $ reboot
 
 ## 2. Cấu Hình:
+*Cách 1: Sửa Biến Môi Trường (Khuyến Nghị Sử Dụng Cách Này)
 - Kiểm Tra Xem Shell Đang Dùng Là Gì: bash, zsh, fish,...
 
   `$ echo $0`
@@ -34,7 +35,8 @@ Or $ sudo apt-get install --install-recommends ibus
   `$ reboot`
 - Kiểm tra biến môi trường đã ăn cấu hình sau khi reboot hay chưa:
 
-`$ env | grep "IM_MODULE\|XMODIFIERS"`
+     `$ env | grep "IM_MODULE\|XMODIFIERS"`
+     
 - Kết quả trả về sẽ có dạng như sau:
 
       GTK_IM_MODULE=xim
